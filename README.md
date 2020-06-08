@@ -2,6 +2,7 @@
 
 A Flutter application where you can share your Cool ideas with people
 
+note:the application isn't 100% complete
 
 ## Screenshots are in Issues 
 
